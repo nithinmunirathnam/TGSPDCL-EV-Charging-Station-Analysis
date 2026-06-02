@@ -90,3 +90,4 @@ Studied charging demand growth trends and future infrastructure requirements.
 The final Power BI dashboard provides a centralized view of EV charging station performance and simplifies complex operational data into meaningful insights. The dashboard helps stakeholders monitor performance, identify trends, and support future planning and optimization of EV charging infrastructure.
 
 ## Dashboard
+![Dashboard overview](https://github.com/nithinmunirathnam/TGSPDCL-EV-Charging-Station-Analysis/blob/4418daa15c2403d26f27e26c9da8243bcab38731/EV_dashboard.png)
